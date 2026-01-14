@@ -1,3 +1,4 @@
+
 def multiply(a, b):
     """Multiply two numbers."""
     return a * b
@@ -34,3 +35,4 @@ def square_n_times(number, n):
 print("I'm going use the calculator functions to multiply 5 and 6")
 x = multiply(5,6)
 print(x)
+
